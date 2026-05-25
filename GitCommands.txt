@@ -1,0 +1,8 @@
+                     GIT COMMANDS
+git init → Initializes a new Git repository in your project folder.
+git add filename → Adds a specific file to the staging area.
+git add . → Adds all files and changes to the staging area.
+git commit -m "message" → Saves staged changes with a commit message.
+git push origin branch → Uploads local commits to the specified branch on GitHub.
+git status → Shows the current status of files and changes in the repository.
+git clone URL → Copies an existing remote repository to your local computer.
